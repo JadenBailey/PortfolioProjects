@@ -1,2 +1,2 @@
-# PortfolioProjects
-Portfolio projects using SQL and Tableau
+# Portfolio Projects
+Portfolio projects using SQL and Tableau.
